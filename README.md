@@ -1,2 +1,4 @@
-# self-projects
-IITB student 180110030 Dhruvkant Shakyawar
+# Self-Projects
+Dhruvkant Shakyawar 
+180110030
+IITB 4th year student  
